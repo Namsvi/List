@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>
+            Research Question
+        </title>
+    </head>
+    <body>
+        <ol type="1">
+            <li>Introduction</li>
+            <li>claim/Subtopib A</li>
+            <ol type="a">
+                <li>Setup for Quote A1</li>
+                <ol type="i">
+                    <li>Quote A1</li>
+                    <ol type="a">
+                        <li>Reasoning for Quote A1</li>
+                    </ol>
+                </ol>
+                <li>Setup for Quote A2</li>
+                <ol type="i">
+                    <li>Quote A2</li>
+                    <ol type="a">
+                        <li>Reasoning for Quote A2</li>
+                    </ol>
+                </ol>
+                <li>Setup for Quote A3</li>
+                <ol type="i">
+                    <li>Quote A3</li>
+                    <ol type="a">
+                        <li>Reasoning for Quote A3</li>
+                    </ol>
+                </ol>
+            </ol>
+            <li>claim/Subtopic B</li>
+            <ol type="a">
+                <li>Setup for Quote B1</li>
+                <ol type="i">
+                    <li>Quote B1</li>
+                    <ol type="a">
+                        <li>Reasoning for Quote B1</li>
+                    </ol>
+                </ol>
+                <li>Setup for Quote B2</li>
+                <ol type="i">
+                    <li>Quote B2</li>
+                    <ol type="a">
+                        <li>Reasoning for Quote B2</li>
+                    </ol>
+                </ol>
+            </ol>
+        </ol>
+    </body>
+</html>
